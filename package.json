@@ -1,5 +1,5 @@
 {
-  "name": "iot-led-realtime",
+  "name": "iot-led-command",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
